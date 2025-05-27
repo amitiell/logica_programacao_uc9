@@ -1,0 +1,18 @@
+lampada
+
+mova a garra para lampada velha
+feche a garra
+gire garras 180º sentido anti-horario
+gire garras 180º sentido anti-horario
+gire garras 180º sentido anti-horario
+gire garras 180º sentido anti-horario
+mova a garra para mesa 
+abra a garra
+mova a garra para lampada nova
+feche a garra
+mova a garra para bocal
+gire garras 180º sentido horario
+gire garras 180º sentido horario
+gire garras 180º sentido horario
+gire garras 180º sentido horario
+mova a garra para posição inicial
