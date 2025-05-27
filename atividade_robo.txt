@@ -1,4 +1,4 @@
-lampada
+lam
 
 mova a garra para lampada velha
 feche a garra
@@ -16,3 +16,5 @@ gire garras 180º sentido horario
 gire garras 180º sentido horario
 gire garras 180º sentido horario
 mova a garra para posição inicial
+
+Atividade finalizada

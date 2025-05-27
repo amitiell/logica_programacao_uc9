@@ -1,0 +1,14 @@
+atravessar rua 
+
+se mafaro vermelho
+	atravesse
+senao
+	aguarde ficar vermelho
+olhe para a esquerda
+	se não vier carro, atravesse
+senao 
+	aguarde o carro passar
+olhe para a esquerda
+	se não vier carro, atravesse
+senao 
+	aguarde o carro passar
