@@ -10,5 +10,7 @@ programa {
     rendimento = deposito*(PORCENTAGEM/100)+deposito
 
     escreva("\nO Valor apos um mês será de R$",rendimento,"\n")
+
+    //ok
   }
 }
