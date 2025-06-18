@@ -1,0 +1,10 @@
+C:\Users\renan.gvgoncalves\source\repos\AlturaMedia\AlturaMedia\bin\Debug\AlturaMedia.exe.config
+C:\Users\renan.gvgoncalves\source\repos\AlturaMedia\AlturaMedia\bin\Debug\AlturaMedia.exe
+C:\Users\renan.gvgoncalves\source\repos\AlturaMedia\AlturaMedia\bin\Debug\AlturaMedia.pdb
+C:\Users\renan.gvgoncalves\source\repos\AlturaMedia\AlturaMedia\obj\Debug\AlturaMedia.csproj.AssemblyReference.cache
+C:\Users\renan.gvgoncalves\source\repos\AlturaMedia\AlturaMedia\obj\Debug\AlturaMedia.frmPrincipal.resources
+C:\Users\renan.gvgoncalves\source\repos\AlturaMedia\AlturaMedia\obj\Debug\AlturaMedia.Properties.Resources.resources
+C:\Users\renan.gvgoncalves\source\repos\AlturaMedia\AlturaMedia\obj\Debug\AlturaMedia.csproj.GenerateResource.cache
+C:\Users\renan.gvgoncalves\source\repos\AlturaMedia\AlturaMedia\obj\Debug\AlturaMedia.csproj.CoreCompileInputs.cache
+C:\Users\renan.gvgoncalves\source\repos\AlturaMedia\AlturaMedia\obj\Debug\AlturaMedia.exe
+C:\Users\renan.gvgoncalves\source\repos\AlturaMedia\AlturaMedia\obj\Debug\AlturaMedia.pdb

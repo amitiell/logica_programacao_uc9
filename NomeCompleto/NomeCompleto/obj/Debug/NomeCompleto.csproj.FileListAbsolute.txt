@@ -1,0 +1,10 @@
+C:\Users\renan.gvgoncalves\source\repos\NomeCompleto\NomeCompleto\bin\Debug\NomeCompleto.exe.config
+C:\Users\renan.gvgoncalves\source\repos\NomeCompleto\NomeCompleto\bin\Debug\NomeCompleto.exe
+C:\Users\renan.gvgoncalves\source\repos\NomeCompleto\NomeCompleto\bin\Debug\NomeCompleto.pdb
+C:\Users\renan.gvgoncalves\source\repos\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.csproj.AssemblyReference.cache
+C:\Users\renan.gvgoncalves\source\repos\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.frmPrincipal.resources
+C:\Users\renan.gvgoncalves\source\repos\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.Properties.Resources.resources
+C:\Users\renan.gvgoncalves\source\repos\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.csproj.GenerateResource.cache
+C:\Users\renan.gvgoncalves\source\repos\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.csproj.CoreCompileInputs.cache
+C:\Users\renan.gvgoncalves\source\repos\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.exe
+C:\Users\renan.gvgoncalves\source\repos\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.pdb
