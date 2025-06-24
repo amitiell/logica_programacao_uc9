@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{C9A2AEB4-1E8A-4FFC-B5B5-33C9C76B8A14}|AlturaMedia\\AlturaMedia.csproj|solutionrelative:alturamedia\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9A2AEB4-1E8A-4FFC-B5B5-33C9C76B8A14}|AlturaMedia\\AlturaMedia.csproj|c:\\users\\renan.gvgoncalves\\source\\repos\\alturamedia\\alturamedia\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C9A2AEB4-1E8A-4FFC-B5B5-33C9C76B8A14}|AlturaMedia\\AlturaMedia.csproj|C:\\Users\\renan.gvgoncalves\\source\\repos\\AlturaMedia\\alturamedia\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C9A2AEB4-1E8A-4FFC-B5B5-33C9C76B8A14}|AlturaMedia\\AlturaMedia.csproj|solutionrelative:alturamedia\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "AlturaMedia\\frmPrincipal.cs",
               "ToolTip": "C:\\Users\\renan.gvgoncalves\\source\\repos\\AlturaMedia\\AlturaMedia\\frmPrincipal.cs",
               "RelativeToolTip": "AlturaMedia\\frmPrincipal.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAswCUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wCoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T17:54:49.324Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\renan.gvgoncalves\\source\\repos\\AlturaMedia\\AlturaMedia\\frmPrincipal.cs [Design]",
               "RelativeToolTip": "AlturaMedia\\frmPrincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T17:47:54.043Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-18T17:47:54.043Z"
             }
           ]
         }
