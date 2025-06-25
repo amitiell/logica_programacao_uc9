@@ -215,6 +215,7 @@
             this.Controls.Add(this.txtValor1);
             this.Name = "frmPrincipal";
             this.Text = "Ordenação";
+            this.Load += new System.EventHandler(this.frmPrincipal_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

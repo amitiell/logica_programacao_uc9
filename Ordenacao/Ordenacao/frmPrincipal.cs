@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics.Eventing.Reader;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -23,21 +24,103 @@ namespace Ordenacao
             Decimal valor2 = Convert.ToDecimal(txtValor2.Text);
             Decimal valor3 = Convert.ToDecimal(txtValor3.Text);
 
-            if(valor2 > valor1 && valor2 < valor3 )
+            if (valor1 <= valor2 && valor1 <= valor3)
             {
-                lblCrescente2.Text = valor2.ToString();
+                if (valor2 <= valor3)
+                {
+                    lblCrescente1.Text = valor1.ToString();
+                    lblCrescente2.Text = valor2.ToString();
+                    lblCrescente3.Text = valor3.ToString();
+                }
+                else
+                {
+                    lblCrescente1.Text = valor1.ToString();
+                    lblCrescente2.Text = valor3.ToString();
+                    lblCrescente3.Text = valor2.ToString();
+                }
             }
-            if(valor1 > valor2 && valor1 > valor3)
+            else if (valor2 <= valor1 && valor2 <= valor3)
             {
-                lblCrescente3.Text = valor1.ToString();
-            }
-            else
-            {
-                lblCrescente1.Text = valor1.ToString();
-                lblCrescente3.Text = valor3.ToString();
-            }
-            
 
+                if (valor1 <= valor3)
+                {
+                    lblCrescente1.Text = valor2.ToString();
+                    lblCrescente2.Text = valor1.ToString();
+                    lblCrescente3.Text = valor3.ToString();
+                }
+                else
+                {
+                    lblCrescente1.Text = valor2.ToString();
+                    lblCrescente2.Text = valor3.ToString();
+                    lblCrescente3.Text = valor1.ToString();
+                }
+            }
+            else // valor3 é menor
+            {
+                if (valor1 <= valor2)
+                {
+                    lblCrescente1.Text = valor3.ToString();
+                    lblCrescente2.Text = valor1.ToString();
+                    lblCrescente3.Text = valor2.ToString();
+                }
+                else
+                {
+                    lblCrescente1.Text = valor3.ToString();
+                    lblCrescente2.Text = valor2.ToString();
+                    lblCrescente3.Text = valor1.ToString();
+                }
+            }
+            if (valor1 >= valor2 && valor1 >= valor3)
+            {
+                if (valor2 >= valor3)
+                {
+                    lblDecrescente1.Text = valor1.ToString();
+                    lblDecrescente2.Text = valor2.ToString();
+                    lblDecrescente3.Text = valor3.ToString();
+                }
+                else
+                {
+                    lblDecrescente1.Text = valor1.ToString();
+                    lblDecrescente2.Text = valor3.ToString();
+                    lblDecrescente3.Text = valor2.ToString();
+                }
+            }
+            else if (valor2 >= valor1 && valor2 >= valor3)
+            {
+
+                if (valor1 >= valor3)
+                {
+                    lblDecrescente1.Text = valor2.ToString();
+                    lblDecrescente2.Text = valor1.ToString();
+                    lblDecrescente3.Text = valor3.ToString();
+                }
+                else
+                {
+                    lblDecrescente1.Text = valor2.ToString();
+                    lblDecrescente2.Text = valor3.ToString();
+                    lblDecrescente3.Text = valor1.ToString();
+                }
+            }
+            else // valor3 é maior
+            {
+                if (valor1 >= valor2)
+                {
+                    lblDecrescente1.Text = valor3.ToString();
+                    lblDecrescente2.Text = valor1.ToString();
+                    lblDecrescente3.Text = valor2.ToString();
+                }
+                else
+                {
+                    lblDecrescente1.Text = valor3.ToString();
+                    lblDecrescente2.Text = valor2.ToString();
+                    lblDecrescente3.Text = valor1.ToString();
+                }
+            }
+
+        }
+
+        private void frmPrincipal_Load(object sender, EventArgs e)
+        {
 
         }
     }
