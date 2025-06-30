@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\renan.gvgoncalves\\source\\repos\\Calculo_\u00C1rea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56C05C14-0223-444E-A7D7-591B0947125B}|Calculo_\u00C1rea\\Calculo_\u00C1rea.csproj|c:\\users\\renan.gvgoncalves\\source\\repos\\calculo_\u00E1rea\\calculo_\u00E1rea\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56C05C14-0223-444E-A7D7-591B0947125B}|Calculo_\u00C1rea\\Calculo_\u00C1rea.csproj|solutionrelative:calculo_\u00E1rea\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C05C14-0223-444E-A7D7-591B0947125B}|Calculo_\u00C1rea\\Calculo_\u00C1rea.csproj|c:\\users\\renan.gvgoncalves\\source\\repos\\calculo_\u00E1rea\\calculo_\u00E1rea\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C05C14-0223-444E-A7D7-591B0947125B}|Calculo_\u00C1rea\\Calculo_\u00C1rea.csproj|solutionrelative:calculo_\u00E1rea\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\renan.gvgoncalves\\source\\repos\\Calculo_\u00C1rea\\Calculo_\u00C1rea\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Calculo_\u00C1rea\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\renan.gvgoncalves\\source\\repos\\Calculo_\u00C1rea\\Calculo_\u00C1rea\\frmPrincipal.cs*",
+              "RelativeToolTip": "Calculo_\u00C1rea\\frmPrincipal.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAywCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:20:44.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\renan.gvgoncalves\\source\\repos\\Calculo_\u00C1rea\\Calculo_\u00C1rea\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Calculo_\u00C1rea\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\renan.gvgoncalves\\source\\repos\\Calculo_\u00C1rea\\Calculo_\u00C1rea\\frmPrincipal.cs [Design]*",
+              "RelativeToolTip": "Calculo_\u00C1rea\\frmPrincipal.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:11:24.026Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

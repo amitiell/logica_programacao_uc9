@@ -1,0 +1,10 @@
+C:\Users\renan.gvgoncalves\source\repos\Calculo_Área\Calculo_Área\bin\Debug\Calculo_Área.exe.config
+C:\Users\renan.gvgoncalves\source\repos\Calculo_Área\Calculo_Área\bin\Debug\Calculo_Área.exe
+C:\Users\renan.gvgoncalves\source\repos\Calculo_Área\Calculo_Área\bin\Debug\Calculo_Área.pdb
+C:\Users\renan.gvgoncalves\source\repos\Calculo_Área\Calculo_Área\obj\Debug\Calculo_Área.csproj.AssemblyReference.cache
+C:\Users\renan.gvgoncalves\source\repos\Calculo_Área\Calculo_Área\obj\Debug\Calculo_Área.frmPrincipal.resources
+C:\Users\renan.gvgoncalves\source\repos\Calculo_Área\Calculo_Área\obj\Debug\Calculo_Área.Properties.Resources.resources
+C:\Users\renan.gvgoncalves\source\repos\Calculo_Área\Calculo_Área\obj\Debug\Calculo_Área.csproj.GenerateResource.cache
+C:\Users\renan.gvgoncalves\source\repos\Calculo_Área\Calculo_Área\obj\Debug\Calculo_Área.csproj.CoreCompileInputs.cache
+C:\Users\renan.gvgoncalves\source\repos\Calculo_Área\Calculo_Área\obj\Debug\Calculo_Área.exe
+C:\Users\renan.gvgoncalves\source\repos\Calculo_Área\Calculo_Área\obj\Debug\Calculo_Área.pdb

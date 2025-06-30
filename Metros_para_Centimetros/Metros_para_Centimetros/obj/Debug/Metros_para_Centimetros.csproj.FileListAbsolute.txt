@@ -1,0 +1,10 @@
+C:\Users\renan.gvgoncalves\source\repos\Metros_para_Centimetros\Metros_para_Centimetros\obj\Debug\Metros_para_Centimetros.csproj.AssemblyReference.cache
+C:\Users\renan.gvgoncalves\source\repos\Metros_para_Centimetros\Metros_para_Centimetros\obj\Debug\Metros_para_Centimetros.frmPrincipal.resources
+C:\Users\renan.gvgoncalves\source\repos\Metros_para_Centimetros\Metros_para_Centimetros\obj\Debug\Metros_para_Centimetros.Properties.Resources.resources
+C:\Users\renan.gvgoncalves\source\repos\Metros_para_Centimetros\Metros_para_Centimetros\obj\Debug\Metros_para_Centimetros.csproj.GenerateResource.cache
+C:\Users\renan.gvgoncalves\source\repos\Metros_para_Centimetros\Metros_para_Centimetros\obj\Debug\Metros_para_Centimetros.csproj.CoreCompileInputs.cache
+C:\Users\renan.gvgoncalves\source\repos\Metros_para_Centimetros\Metros_para_Centimetros\bin\Debug\Metros_para_Centimetros.exe.config
+C:\Users\renan.gvgoncalves\source\repos\Metros_para_Centimetros\Metros_para_Centimetros\bin\Debug\Metros_para_Centimetros.exe
+C:\Users\renan.gvgoncalves\source\repos\Metros_para_Centimetros\Metros_para_Centimetros\bin\Debug\Metros_para_Centimetros.pdb
+C:\Users\renan.gvgoncalves\source\repos\Metros_para_Centimetros\Metros_para_Centimetros\obj\Debug\Metros_para_Centimetros.exe
+C:\Users\renan.gvgoncalves\source\repos\Metros_para_Centimetros\Metros_para_Centimetros\obj\Debug\Metros_para_Centimetros.pdb
