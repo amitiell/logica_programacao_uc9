@@ -1,0 +1,10 @@
+C:\Users\renan.gvgoncalves\source\repos\Calculo_Salario\Calculo_Salario\bin\Debug\Calculo_Salario.exe.config
+C:\Users\renan.gvgoncalves\source\repos\Calculo_Salario\Calculo_Salario\bin\Debug\Calculo_Salario.exe
+C:\Users\renan.gvgoncalves\source\repos\Calculo_Salario\Calculo_Salario\bin\Debug\Calculo_Salario.pdb
+C:\Users\renan.gvgoncalves\source\repos\Calculo_Salario\Calculo_Salario\obj\Debug\Calculo_Salario.csproj.AssemblyReference.cache
+C:\Users\renan.gvgoncalves\source\repos\Calculo_Salario\Calculo_Salario\obj\Debug\Calculo_Salario.frmPrincipal.resources
+C:\Users\renan.gvgoncalves\source\repos\Calculo_Salario\Calculo_Salario\obj\Debug\Calculo_Salario.Properties.Resources.resources
+C:\Users\renan.gvgoncalves\source\repos\Calculo_Salario\Calculo_Salario\obj\Debug\Calculo_Salario.csproj.GenerateResource.cache
+C:\Users\renan.gvgoncalves\source\repos\Calculo_Salario\Calculo_Salario\obj\Debug\Calculo_Salario.csproj.CoreCompileInputs.cache
+C:\Users\renan.gvgoncalves\source\repos\Calculo_Salario\Calculo_Salario\obj\Debug\Calculo_Salario.exe
+C:\Users\renan.gvgoncalves\source\repos\Calculo_Salario\Calculo_Salario\obj\Debug\Calculo_Salario.pdb
