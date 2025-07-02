@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\renan.gvgoncalves\\source\\repos\\OperacoesSimples\\",
+  "WorkspaceRootPath": "C:\\Users\\renan.gvgoncalves\\Desktop\\logica_programacao_uc9\\OperacoesSimples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B72C086-DA54-427A-81A6-B09D9AD96F96}|OperacoesSimples\\OperacoesSimples.csproj|C:\\Users\\renan.gvgoncalves\\source\\repos\\OperacoesSimples\\operacoessimples\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0B72C086-DA54-427A-81A6-B09D9AD96F96}|OperacoesSimples\\OperacoesSimples.csproj|solutionrelative:operacoessimples\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0B72C086-DA54-427A-81A6-B09D9AD96F96}|OperacoesSimples\\OperacoesSimples.csproj|C:\\Users\\renan.gvgoncalves\\Desktop\\logica_programacao_uc9\\OperacoesSimples\\operacoessimples\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B72C086-DA54-427A-81A6-B09D9AD96F96}|OperacoesSimples\\OperacoesSimples.csproj|solutionrelative:operacoessimples\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B72C086-DA54-427A-81A6-B09D9AD96F96}|OperacoesSimples\\OperacoesSimples.csproj|c:\\users\\renan.gvgoncalves\\source\\repos\\operacoessimples\\operacoessimples\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B72C086-DA54-427A-81A6-B09D9AD96F96}|OperacoesSimples\\OperacoesSimples.csproj|solutionrelative:operacoessimples\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B72C086-DA54-427A-81A6-B09D9AD96F96}|OperacoesSimples\\OperacoesSimples.csproj|c:\\users\\renan.gvgoncalves\\desktop\\logica_programacao_uc9\\operacoessimples\\operacoessimples\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B72C086-DA54-427A-81A6-B09D9AD96F96}|OperacoesSimples\\OperacoesSimples.csproj|solutionrelative:operacoessimples\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +18,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "frmPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\renan.gvgoncalves\\source\\repos\\OperacoesSimples\\OperacoesSimples\\frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\renan.gvgoncalves\\Desktop\\logica_programacao_uc9\\OperacoesSimples\\OperacoesSimples\\frmPrincipal.cs",
               "RelativeDocumentMoniker": "OperacoesSimples\\frmPrincipal.cs",
-              "ToolTip": "C:\\Users\\renan.gvgoncalves\\source\\repos\\OperacoesSimples\\OperacoesSimples\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\renan.gvgoncalves\\Desktop\\logica_programacao_uc9\\OperacoesSimples\\OperacoesSimples\\frmPrincipal.cs",
               "RelativeToolTip": "OperacoesSimples\\frmPrincipal.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T20:06:08.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmPrincipal.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\renan.gvgoncalves\\source\\repos\\OperacoesSimples\\OperacoesSimples\\frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\renan.gvgoncalves\\Desktop\\logica_programacao_uc9\\OperacoesSimples\\OperacoesSimples\\frmPrincipal.cs",
               "RelativeDocumentMoniker": "OperacoesSimples\\frmPrincipal.cs",
-              "ToolTip": "C:\\Users\\renan.gvgoncalves\\source\\repos\\OperacoesSimples\\OperacoesSimples\\frmPrincipal.cs [Design]",
+              "ToolTip": "C:\\Users\\renan.gvgoncalves\\Desktop\\logica_programacao_uc9\\OperacoesSimples\\OperacoesSimples\\frmPrincipal.cs [Design]",
               "RelativeToolTip": "OperacoesSimples\\frmPrincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T19:56:18.162Z",

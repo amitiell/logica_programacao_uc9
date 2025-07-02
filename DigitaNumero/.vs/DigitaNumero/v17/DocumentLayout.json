@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\renan.gvgoncalves\\source\\repos\\DigitaNumero\\",
+  "WorkspaceRootPath": "C:\\Users\\renan.gvgoncalves\\Desktop\\logica_programacao_uc9\\DigitaNumero\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A65EB35B-4CB0-4AA5-B345-C4E2334199F8}|DigitaNumero\\DigitaNumero.csproj|c:\\users\\renan.gvgoncalves\\source\\repos\\digitanumero\\digitanumero\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A65EB35B-4CB0-4AA5-B345-C4E2334199F8}|DigitaNumero\\DigitaNumero.csproj|solutionrelative:digitanumero\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\renan.gvgoncalves\\Desktop\\logica_programacao_uc9\\DigitaNumero\\DigitaNumero\\frmPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DigitaNumero\\frmPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A65EB35B-4CB0-4AA5-B345-C4E2334199F8}|DigitaNumero\\DigitaNumero.csproj|c:\\users\\renan.gvgoncalves\\source\\repos\\digitanumero\\digitanumero\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A65EB35B-4CB0-4AA5-B345-C4E2334199F8}|DigitaNumero\\DigitaNumero.csproj|solutionrelative:digitanumero\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\renan.gvgoncalves\\Desktop\\logica_programacao_uc9\\DigitaNumero\\DigitaNumero\\frmPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DigitaNumero\\frmPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,16 +18,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "frmPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\renan.gvgoncalves\\source\\repos\\DigitaNumero\\DigitaNumero\\frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\renan.gvgoncalves\\Desktop\\logica_programacao_uc9\\DigitaNumero\\DigitaNumero\\frmPrincipal.cs",
               "RelativeDocumentMoniker": "DigitaNumero\\frmPrincipal.cs",
-              "ToolTip": "C:\\Users\\renan.gvgoncalves\\source\\repos\\DigitaNumero\\DigitaNumero\\frmPrincipal.cs*",
-              "RelativeToolTip": "DigitaNumero\\frmPrincipal.cs*",
+              "ToolTip": "C:\\Users\\renan.gvgoncalves\\Desktop\\logica_programacao_uc9\\DigitaNumero\\DigitaNumero\\frmPrincipal.cs",
+              "RelativeToolTip": "DigitaNumero\\frmPrincipal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T17:09:40.031Z",
@@ -35,12 +35,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmPrincipal.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\renan.gvgoncalves\\source\\repos\\DigitaNumero\\DigitaNumero\\frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\renan.gvgoncalves\\Desktop\\logica_programacao_uc9\\DigitaNumero\\DigitaNumero\\frmPrincipal.cs",
               "RelativeDocumentMoniker": "DigitaNumero\\frmPrincipal.cs",
-              "ToolTip": "C:\\Users\\renan.gvgoncalves\\source\\repos\\DigitaNumero\\DigitaNumero\\frmPrincipal.cs [Design]*",
-              "RelativeToolTip": "DigitaNumero\\frmPrincipal.cs [Design]*",
+              "ToolTip": "C:\\Users\\renan.gvgoncalves\\Desktop\\logica_programacao_uc9\\DigitaNumero\\DigitaNumero\\frmPrincipal.cs [Design]",
+              "RelativeToolTip": "DigitaNumero\\frmPrincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T17:06:59.414Z",
               "EditorCaption": " [Design]"

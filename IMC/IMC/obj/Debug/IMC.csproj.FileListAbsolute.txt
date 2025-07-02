@@ -1,0 +1,10 @@
+C:\Users\renan.gvgoncalves\source\repos\IMC\IMC\bin\Debug\IMC.exe.config
+C:\Users\renan.gvgoncalves\source\repos\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\renan.gvgoncalves\source\repos\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\renan.gvgoncalves\source\repos\IMC\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\renan.gvgoncalves\source\repos\IMC\IMC\obj\Debug\IMC.frmPrincipal.resources
+C:\Users\renan.gvgoncalves\source\repos\IMC\IMC\obj\Debug\IMC.Properties.Resources.resources
+C:\Users\renan.gvgoncalves\source\repos\IMC\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\renan.gvgoncalves\source\repos\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\renan.gvgoncalves\source\repos\IMC\IMC\obj\Debug\IMC.exe
+C:\Users\renan.gvgoncalves\source\repos\IMC\IMC\obj\Debug\IMC.pdb
